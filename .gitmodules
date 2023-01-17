@@ -1,0 +1,3 @@
+[submodule "jobsub-hello-starter"]
+	path = jobsub-hello-starter
+	url = git@github.com:/utica-iits-ais/jobsub-hello-starter
